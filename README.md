@@ -1,3 +1,4 @@
+# Oaaa 🦊
 <!-- HEADER: ANIMACIÓN DE CONSOLA -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=O_GUTIERREZ%3A~%24+init+sys;SYSTEMS_ENGINEER_STUDENT;LOW_LEVEL_DEVELOPMENT_+_AI" alt="Terminal Header" />
