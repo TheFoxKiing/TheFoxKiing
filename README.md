@@ -8,7 +8,7 @@
 
   <!-- BADGES DE CONTACTO (ESTILO FLAT-SQUARE Y MONOCROMÁTICO) -->
   <p align="center">
-    <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/TheFoxKiing"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=browser&logoColor=white" alt="Website"></a>
   </p>
@@ -29,7 +29,7 @@
     </td>
     <td width="45%" align="right" valign="top">
       <!-- MÁTRICAS DE GITHUB (TEMA OSCURO COMPACTO) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="380" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TheFoxKiing&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="380" />
     </td>
   </tr>
 </table>
@@ -86,12 +86,12 @@
 
 <div align="center">
   <!-- GRÁFICO DE ACTIVIDAD SEMANAL ANIMADO -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=github-dark-v2&bg_color=0d1117&hide_border=true&color=58a6ff" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFoxKiing&theme=github-dark-v2&bg_color=0d1117&hide_border=true&color=58a6ff" alt="Activity Graph" width="100%" />
   
   <br /><br />
   
   <!-- LENGUAJES MÁS USADOS EN FORMATO COMPACTO -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFoxKiing&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="450" />
 </div>
 
 <br />
@@ -105,5 +105,5 @@
   <br />
   
   <!-- CONTADOR DE VISTAS ESTILO SHIELD -->
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=30363d&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?TheFoxKiing&color=30363d&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
