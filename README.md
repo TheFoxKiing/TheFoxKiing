@@ -8,9 +8,9 @@
 
   <!-- BADGES DE CONTACTO (ESTILO FLAT-SQUARE Y MONOCROMÁTICO) -->
   <p align="center">
-    <a href="https://linkedin.com/in/TheFoxKiing"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=browser&logoColor=white" alt="Website"></a>
+    <a href="https://www.linkedin.com/in/guti%C3%A9rrez-silva-francisco-omar-b194b3280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:omargt355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://portfolio-j87z6sint-thefoxkiings-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=browser&logoColor=white" alt="Website"></a>
   </p>
 </div>
 
