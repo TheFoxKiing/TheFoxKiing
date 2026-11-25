@@ -1,113 +1,94 @@
-<h1> Hiii! 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJjcm1ndGdnanh5cHEzbHprdzdqcTduYmV3NnFoZW95YjRjaHRwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif" width="100" />
-</h1> 
+<!-- ───────────────────────────────────────────────
+     TheFoxKiing · README
+     Concepto: el perfil es una sesión de terminal.
+     Abre con un login, cada sección es un comando,
+     y cierra con exit.
+     Acento: naranja zorro (#FF8A3D oscuro / #C2410C claro)
+──────────────────────────────────────────────── -->
 
-<!-- HEADER: ANIMACIÓN DE CONSOLA -->
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=58a6ff&size=30&width=650&height=80&center=true&vCenter=true&lines=Hey!+It's+TheFoxKiing!%F0%9F%A6%8A;I'm+a+Computer+Systems+student...;I'm+also+a+cryptography+student;Have+a+nice+day!)
-</div>
+<h1>
+  Hiii!
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJjcm1ndGdnanh5cHEzbHprdzdqcTduYmV3NnFoZW95YjRjaHRwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif" width="64" alt="" />
+</h1>
 
-  <!-- BADGES DE CONTACTO -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/guti%C3%A9rrez-silva-francisco-omar-b194b3280" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn">    
-    <a href="mailto:omargt355@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://portfolio-tfk-three.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square" alt="Website">
-    <a href="https://www.instagram.com/oma_oma.tfk" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </p>
-</div>
+<!-- LOGIN: animación de consola -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3200&pause=900&color=FF8A3D&center=true&vCenter=true&width=640&height=70&lines=%24+whoami;TheFoxKiing+%F0%9F%A6%8A;Computer+Systems+student+%40+ESCOM;Cryptography+student;Have+a+nice+day!" alt="$ whoami — TheFoxKiing, Computer Systems student, cryptography student" />
+</p>
 
-<br />
-<hr style="border: 0; border-top: 1px solid #30363d;" />
-<br />
-
-<!-- SECTION: ABOUT -->
-<h2>ABOUT <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> </h2>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
-      <p align="justify">Estudiante de Ingeniería en Sistemas Computacionales en la <strong>Escuela Superior de Cómputo (ESCOM - IPN)</strong>. Especializado en el diseño de software eficiente y el despliegue de aplicaciones web modernas.</p>
-<p align="justify">Enfocado en resolver problemas complejos mediante algoritmos optimizados, criptografía aplicada y la construcción de código limpio y estructurado.</p>
-    </td>
-    <td width="45%" align="right" valign="top">
-      <!-- MÁTRICAS DE GITHUB -->
-      <img src="https://github-readme-stats.vercel.app/api?username=TheFoxKiing&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="380" />
-    </td>
-  </tr>
-</table>
+<!-- CONTACTO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/guti%C3%A9rrez-silva-francisco-omar-b194b3280"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&labelColor=161B22" alt="LinkedIn" /></a>
+  <a href="mailto:omargt355@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=FF8A3D" alt="Email" /></a>
+  <a href="https://portfolio-tfk-three.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=FF8A3D" alt="Portfolio" /></a>
+  <a href="https://www.instagram.com/oma_oma.tfk"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF8A3D" alt="Instagram" /></a>
+</p>
 
 <br />
-<hr style="border: 0; border-top: 1px solid #30363d;" />
+
+## `$ cat about.md`
+
+Estudiante de Ingeniería en Sistemas Computacionales en la **Escuela Superior de Cómputo (ESCOM – IPN)**. Me especializo en el diseño de software eficiente y el despliegue de aplicaciones web modernas.
+
+Me enfoco en resolver problemas complejos con algoritmos optimizados, criptografía aplicada y código limpio y bien estructurado.
+
 <br />
 
-<!-- SECTION: SKILLS -->
-<h2>SKILLS <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2> 
+## `$ ls ~/skills`
 
-<div align="center">
-  <!-- SKILL ICONS: CONJUNTO COMPACTO, UNIFORME Y MINIMALISTA -->
+<p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=c,python,astro,react,django,vue,ts,nodejs,tailwind,git,docker,linux&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,docker,git,astro,react,ts,tailwind,vue,django,nodejs&perline=7&theme=dark" alt="C, C++, Python, Arduino, Linux, Docker, Git, Astro, React, TypeScript, Tailwind, Vue, Django, Node.js" />
   </a>
-</div>
+</p>
 
-<br />
-<br />
-
-<table width="100%" align="center">
+<table align="center">
   <tr>
-    <td width="33%" valign="top">
-      <strong>SYSTEMS & HARDWARE</strong>
-      <br /><br />
-      • Assembly Language<br />
-      • C / C++ Architecture<br />
-      • AVR Microcontrollers
-    </td>
-    <td width="33%" valign="top">
-      <strong>WEB DEVELOPMENT</strong>
-      <br /><br />
-      • Astro Islands Architecture<br />
-      • TypeScript / React<br />
-      • Responsive Tailwind Design
-    </td>
-    <td width="33%" valign="top">
-      <strong>COMPUTATIONAL THEORY</strong>
-      <br /><br />
-      • AI Search Algorithms<br />
-      • Cryptographic Protocols<br />
-      • System Environments
-    </td>
+    <th align="left">Sistemas y hardware</th>
+    <th align="left">Desarrollo web</th>
+    <th align="left">Teoría computacional</th>
+  </tr>
+  <tr>
+    <td valign="top">Lenguaje ensamblador<br />Arquitectura en C / C++<br />Microcontroladores AVR</td>
+    <td valign="top">Arquitectura de islas (Astro)<br />TypeScript / React<br />Diseño responsivo con Tailwind</td>
+    <td valign="top">Algoritmos de búsqueda en IA<br />Protocolos criptográficos<br />Entornos de sistema</td>
   </tr>
 </table>
 
 <br />
-<hr style="border: 0; border-top: 1px solid #30363d;" />
 
-<!-- SECTION: STATISTICS -->
-<h2> STATISTICS</h2> 
+## `$ git log --stats`
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheFoxKiing&bg_color=0d1117&color=58a6ff&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/TheFoxKiing/github-readme-activity-graph)
+<!-- Tarjetas: github-stats-extended (sucesor mantenido de github-readme-stats).
+     <picture> cambia automáticamente entre tema oscuro y claro de GitHub. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TheFoxKiing&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FF8A3D&icon_color=FF8A3D&text_color=C9D1D9&ring_color=FF8A3D&custom_title=TheFoxKiing%20%2F%20stats" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=TheFoxKiing&show_icons=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&title_color=C2410C&icon_color=C2410C&text_color=24292F&ring_color=C2410C&custom_title=TheFoxKiing%20%2F%20stats" alt="Estadísticas de GitHub de TheFoxKiing" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TheFoxKiing&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&custom_title=Lenguajes%20m%C3%A1s%20usados" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheFoxKiing&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=C2410C&text_color=24292F&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="Lenguajes más usados de TheFoxKiing" />
+  </picture>
+</p>
 
-  <!-- RACHA -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheFoxKiing&count_private=true&background=0d1117&border=30363d&stroke=4523C6&ring=4523C6&fire=4523C6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=4523C6&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TheFoxKiing&hide_border=true&background=0D1117&stroke=30363D&ring=FF8A3D&fire=FF8A3D&currStreakNum=FFFFFF&currStreakLabel=FF8A3D&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&locale=es" />
+    <img src="https://streak-stats.demolab.com/?user=TheFoxKiing&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=C2410C&fire=C2410C&currStreakNum=24292F&currStreakLabel=C2410C&sideNums=24292F&sideLabels=57606A&dates=57606A&locale=es" alt="Racha de contribuciones de TheFoxKiing" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheFoxKiing&bg_color=0D1117&color=C9D1D9&title_color=FF8A3D&line=FF8A3D&point=FFFFFF&area=true&area_color=FF8A3D&hide_border=true&custom_title=Actividad%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheFoxKiing&bg_color=FFFFFF&color=24292F&title_color=C2410C&line=C2410C&point=24292F&area=true&area_color=C2410C&hide_border=true&custom_title=Actividad%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" alt="Gráfica de actividad de TheFoxKiing" />
+  </picture>
+</p>
 
 <br />
-<hr style="border: 0; border-top: 1px solid #30363d;" />
-<br />
 
-<!-- ANIMACIÓN DE CIERRE: TERMINAL EXIT -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=800&color=8B949E&center=true&vCenter=true&width=400&lines=%24+exit%3B;logout;%5BProcess+completed%5D" alt="Terminal Closure" />
-  
-  <br />
-  
-
-
+<!-- LOGOUT: animación de cierre -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=420&lines=%24+exit;logout;%5BProcess+completed%5D" alt="$ exit — logout — [Process completed]" />
+</p>
