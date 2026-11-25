@@ -26,15 +26,15 @@
 
 <br />
 
-## `$ cat about.md`
+<h2><code>$ cat about.md</code></h2>
 
-Estudiante de Ingeniería en Sistemas Computacionales en la **Escuela Superior de Cómputo (ESCOM – IPN)**. Me especializo en el diseño de software eficiente y el despliegue de aplicaciones web modernas.
+<p>Estudiante de Ingeniería en Sistemas Computacionales en la <strong>Escuela Superior de Cómputo (ESCOM – IPN)</strong>. Me especializo en el diseño de software eficiente y el despliegue de aplicaciones web modernas.</p>
 
-Me enfoco en resolver problemas complejos con algoritmos optimizados, criptografía aplicada y código limpio y bien estructurado.
+<p>Me enfoco en resolver problemas complejos con algoritmos optimizados, criptografía aplicada y código limpio y bien estructurado.</p>
 
 <br />
 
-## `$ ls ~/skills`
+<h2><code>$ ls ~/skills</code></h2>
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
@@ -57,7 +57,7 @@ Me enfoco en resolver problemas complejos con algoritmos optimizados, criptograf
 
 <br />
 
-## `$ git log --stats`
+<h2><code>$ git log --stats</code></h2>
 
 <!-- Tarjetas: github-stats-extended (sucesor mantenido de github-readme-stats).
      <picture> cambia automáticamente entre tema oscuro y claro de GitHub. -->
